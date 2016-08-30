@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContextProviderCalendar</string>
+    <string name="get_calendars">Get Calendars!</string>
+</resources>
